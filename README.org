@@ -1,0 +1,19 @@
+* TicTacToe with Java Swing
+
+This is an implementation of game of TicTacToe. The project only uses Java Swing, so it does not have any external dependencies and is portable to any platform that supports JVM.
+
+[[./Animation.gif]]
+
+** Compile and Run
+
+To compile java file
+
+#+begin_src
+  $ javac Main.java
+#+end_src
+
+To run the bytecode
+
+#+begin_src
+  $ java Main
+#+end_src
